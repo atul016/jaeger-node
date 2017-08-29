@@ -13,5 +13,6 @@ module.exports = [
   httpClient,
   mongodbCore,
   pg,
-  redis
-]
+  redis,
+  mysql
+  ]
